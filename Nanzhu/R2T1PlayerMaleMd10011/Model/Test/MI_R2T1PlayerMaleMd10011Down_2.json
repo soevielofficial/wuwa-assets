@@ -1,0 +1,114 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Down_D.T_R2T1PlayerMaleMd10011Down_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Down_D.T_R2T1PlayerMaleMd10011Down_D",
+    "T_R2T1PlayerMaleMd10011Down_D": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Down_D.T_R2T1PlayerMaleMd10011Down_D",
+    "PM_Normals": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Down_N.T_R2T1PlayerMaleMd10011Down_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Down_N.T_R2T1PlayerMaleMd10011Down_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "Ramp": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin",
+    "PM_SpecularMasks": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin",
+    "T_R2T1PlayerMaleMd10011_Skin": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "PBRIndirectColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "GradientColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "SkinBlendFactor": 1.0,
+      "SolidShadowProcess": 0.1,
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "ShadowWidth": 0.05,
+      "ExtraShadowIntensity": 0.0,
+      "ExtraShadowScale": 0.85,
+      "ExtraShadowWidth": 1.0,
+      "NormalStrength": 1.0,
+      "MetallicBaseSpecular": 1.5,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "BaseSpecular": 0.125,
+      "MetalEmissionStrength": 2.0,
+      "MetalSpecularPower": 5.0,
+      "SpecularPower": 3.0,
+      "Roughness": 0.2,
+      "Metalllic": 0.3,
+      "UvGradientProcess": 0.26,
+      "UvGradientScale": 6.0,
+      "GradientIntensity": 0.03,
+      "GradientPivort": 0.212583,
+      "GradientPower": 3.060843,
+      "GradientScaleMin": -1.0,
+      "UseMainLightColor": 1.0,
+      "BaseSphereLightInt": 0.3,
+      "ShdaowSphereLightInt": 0.4,
+      "ShowSphereLightMask": 0.0,
+      "Param": 2.0,
+      "RampInt": 0.5,
+      "RampPosition": 0.5,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 1.5,
+      "RefractionDepthBias": 0.0,
+      "UseUVGradient_DYN": 1.0
+    },
+    "Switches": {
+      "UseTypeMask": false,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseUVGradient": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

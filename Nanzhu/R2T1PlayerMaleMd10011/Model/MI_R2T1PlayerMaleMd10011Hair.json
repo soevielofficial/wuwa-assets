@@ -1,0 +1,140 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Hair_D.T_R2T1PlayerMaleMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Hair_D.T_R2T1PlayerMaleMd10011Hair_D",
+    "T_R2T1PlayerMaleMd10011Hair_D": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Hair_D.T_R2T1PlayerMaleMd10011Hair_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Hair_HM.T_R2T1PlayerMaleMd10011Hair_HM",
+    "PM_SpecularMasks": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin",
+    "T_R2T1PlayerMaleMd10011Hair_HM": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011Hair_HM.T_R2T1PlayerMaleMd10011Hair_HM",
+    "Ramp": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin",
+    "T_R2T1PlayerMaleMd10011_Skin": "Client/Content/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/Model/T_R2T1PlayerMaleMd10011_Skin.T_R2T1PlayerMaleMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "EmissionColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "OffsetIntensity": {
+        "R": 0.15,
+        "G": 0.05,
+        "B": 0.01,
+        "A": 1.0,
+        "Hex": "6C3F19"
+      },
+      "OffsetSpeed": {
+        "R": 0.6,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "CCBCBC"
+      },
+      "GradientColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "DecodeSpecThreshold": 0.76692,
+      "SolidShadowProcess": 0.1,
+      "SolidShadowSaturation": 1.4,
+      "SolidShadowView": 1.0,
+      "ShadowProcess": 0.7,
+      "ShadowWidth": 0.01,
+      "MaskShadowOffsetStrength": 0.38,
+      "ShadowOffsetPower": 3.0,
+      "SpecStrength": 0.1,
+      "UseHairColorGradient": 0.561916,
+      "R:OffsetPosition": 1.2,
+      "G:HairAOIntensity": 0.8,
+      "UVGradientIn": 0.95,
+      "UvGradientProcess": 0.93,
+      "UvGradientScale": 39.363205,
+      "GradientIntensity": 3.0,
+      "GradientPivort": 1.0,
+      "GradientPower": 1.324459,
+      "GradientScaleMax": 0.314286,
+      "GradientScaleMin": -0.571272,
+      "UseMainLightColor": 0.2,
+      "ScaterIntensity": 4.0,
+      "ScaterVCProcess": 0.395237,
+      "ScaterVCWidth": 0.24619,
+      "NdL_MaskProcess": -0.3,
+      "ScaterMaskMax": 1.0,
+      "ScaterMaskMin": -2.3,
+      "BaseSphereLightInt": 0.2,
+      "ShdaowSphereLightInt": 0.2,
+      "ShowSphereLightMask": 0.0,
+      "Param": 1.0,
+      "RampInt": 0.7,
+      "RampPosition": 0.3,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 0.5,
+      "ToonRimWidth": 0.035,
+      "RefractionDepthBias": 0.0,
+      "UseUVGradient_DYN": 1.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseToonSpecular": true,
+      "UseHairVertexAni": true,
+      "UseHairGradient": true,
+      "UseUVGradient": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 195,
+        "bOverride_IsCharacterHairMat": true,
+        "bIsCharacterHairMat": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

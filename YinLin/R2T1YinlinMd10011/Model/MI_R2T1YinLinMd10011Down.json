@@ -1,0 +1,103 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_D.T_R2T1YinlinMd10011Down_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_D.T_R2T1YinlinMd10011Down_D",
+    "T_R2T1YinlinMd10011Down_D": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_D.T_R2T1YinlinMd10011Down_D",
+    "TypeMask": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_ID.T_R2T1YinlinMd10011Down_ID",
+    "T_R2T1YinlinMd10011Down_ID": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_ID.T_R2T1YinlinMd10011Down_ID",
+    "PM_Normals": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_N.T_R2T1YinlinMd10011Down_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011Down_N.T_R2T1YinlinMd10011Down_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011_skin.T_R2T1YinlinMd10011_Skin",
+    "T_R2T1YinlinMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/Model/T_R2T1YinlinMd10011_skin.T_R2T1YinlinMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 0.28568,
+        "G": 0.011613,
+        "B": 0.875,
+        "A": 0.0,
+        "Hex": "921CF1"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "UseSkinMask_DYN": 1.0,
+      "SolidShadowView": 0.8,
+      "ShadowWidth": 0.02,
+      "BreatheStrength": 2.0,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 2.0,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalSpecularPower": 60.0,
+      "SpecularPower": 8.0,
+      "Roughness": 0.533333,
+      "Metalllic": 1.0,
+      "RoughnessIntensity(Debug))": 1.0,
+      "MetallicIntensity(Debug)": 1.0,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.56,
+      "BaseSphereLightInt": 0.3,
+      "ShowSphereLightMask": 0.0,
+      "Param": 2.0,
+      "RampInt": 0.8,
+      "RampPosition": 0.5,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTypeMask": true,
+      "UseSkinMask": true,
+      "UseToonMask": true,
+      "UseAniSwitchShadow": true,
+      "UseMainTexA": true,
+      "UseBreathLight": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseUVGradient": true,
+      "UseRampMask": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

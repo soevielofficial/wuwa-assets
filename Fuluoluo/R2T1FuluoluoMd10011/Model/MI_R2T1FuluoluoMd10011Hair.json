@@ -1,0 +1,81 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011Hair_D.T_R2T1FuluoluoMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011Hair_D.T_R2T1FuluoluoMd10011Hair_D",
+    "T_R2T1FuluoluoMd10011Hair_D": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011Hair_D.T_R2T1FuluoluoMd10011Hair_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011Hair_HM.T_R2T1FuluoluoMd10011Hair_HM",
+    "T_R2T1FuluoluoMd10011Hair_HM": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011Hair_HM.T_R2T1FuluoluoMd10011Hair_HM",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011_Skin.T_R2T1FuluoluoMd10011_Skin",
+    "T_R2T1FuluoluoMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Fuluoluo/R2T1FuluoluoMd10011/Model/T_R2T1FuluoluoMd10011_Skin.T_R2T1FuluoluoMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      }
+    },
+    "Scalars": {
+      "ShadowProcess": 0.785714,
+      "ShadowWidth": 0.04,
+      "MaskShadowOffsetStrength": 0.295238,
+      "ShadowOffsetAdjustFactor": 0.735786,
+      "ShadowOffsetPower": 0.711713,
+      "UvGradientProcess": 0.56,
+      "BaseSphereLightInt": 0.6,
+      "ShowSphereLightMask": 0.0,
+      "Param": 1.0,
+      "RampInt": 0.5,
+      "RampPosition": 0.3,
+      "UVGradientSkinInt": 0.5,
+      "UVSaturationIntensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseUVGradient": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

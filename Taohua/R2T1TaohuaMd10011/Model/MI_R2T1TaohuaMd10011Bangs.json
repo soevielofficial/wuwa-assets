@@ -1,0 +1,94 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011Bangs_D.T_R2T1TaohuaMd10011Bangs_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011Bangs_D.T_R2T1TaohuaMd10011Bangs_D",
+    "T_R2T1TaohuaMd10011Bangs_D": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011Bangs_D.T_R2T1TaohuaMd10011Bangs_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011Bangs_HM.T_R2T1TaohuaMd10011Bangs_HM",
+    "T_R2T1TaohuaMd10011Bangs_HM": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011Bangs_HM.T_R2T1TaohuaMd10011Bangs_HM",
+    "ShadowColorLUT": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.LUT_Common_Default_Shadow",
+    "LUT_Common_Default_Shadow": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.LUT_Common_Default_Shadow",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011_Skin.T_R2T1TaohuaMd10011_Skin",
+    "T_R2T1TaohuaMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/Model/T_R2T1TaohuaMd10011_Skin.T_R2T1TaohuaMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "ExtraShadowColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "SolidShadowSaturation": 1.6,
+      "SolidShadowView": 0.7,
+      "ShadowProcess": 1.120726,
+      "MaskShadowOffsetStrength": 0.42,
+      "ShadowOffsetPower": 1.019,
+      "SpecStrength": 0.2,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.26,
+      "UvGradientScale": 1.752375,
+      "BaseSphereLightInt": 0.3,
+      "RampInt": 0.3,
+      "RampPosition": 0.3,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseAutoShadowColor": true,
+      "UseToonSpecular": true,
+      "UseUVGradient": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195,
+        "bIsCharacterHairMat": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

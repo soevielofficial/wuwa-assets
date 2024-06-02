@@ -1,0 +1,116 @@
+{
+  "Textures": {
+    "EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "PM_Emissive": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "T_HDMF_EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Micai/R2T1MicaiMd10011/Model/T_R2T1MicaiMd10011Eye_D.T_R2T1MicaiMd10011Eye_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Micai/R2T1MicaiMd10011/Model/T_R2T1MicaiMd10011Eye_D.T_R2T1MicaiMd10011Eye_D",
+    "T_R2T1MicaiMd10011Eye_D": "Client/Content/Aki/Character/Role/FemaleM/Micai/R2T1MicaiMd10011/Model/T_R2T1MicaiMd10011Eye_D.T_R2T1MicaiMd10011Eye_D",
+    "HeightLightMap": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_EyesSecondHeightLight03_EG.T_EyesSecondHeightLight03_EG",
+    "T_EyesSecondHeightLight03_EG": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_EyesSecondHeightLight03_EG.T_EyesSecondHeightLight03_EG",
+    "MaskTex": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF",
+    "T_FemaleMFace_SDF": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "HeightLight_Color": {
+        "R": 0.138776,
+        "G": 0.280617,
+        "B": 0.365,
+        "A": 0.45,
+        "Hex": "736890A3"
+      },
+      "ParallaxOffset": {
+        "R": 0.2,
+        "G": 0.0,
+        "B": 0.2,
+        "A": 0.0,
+        "Hex": "7C007C"
+      },
+      "AniShapeColor": {
+        "R": 0.687127,
+        "G": 1.673854,
+        "B": 10.0,
+        "A": 0.0,
+        "Hex": "D8FFFF"
+      },
+      "HeightLightColor": {
+        "R": 0.03,
+        "G": 0.03,
+        "B": 0.03,
+        "A": 2.0,
+        "Hex": "303030"
+      },
+      "OutLineColor": {
+        "R": 0.040388,
+        "G": 0.023193,
+        "B": 0.234375,
+        "A": 1.0,
+        "Hex": "382A85"
+      },
+      "EdgeColor": {
+        "R": 0.042823,
+        "G": 0.163236,
+        "B": 0.296875,
+        "A": 1.0,
+        "Hex": "3A7094"
+      },
+      "EmissionColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "HeightLight_PositionX": 0.571429,
+      "HeightLight_PositionY": 0.5,
+      "HeightLight_WidthX": 2.163141,
+      "HeightLight_WidthY": 1.0,
+      "HeightLightRotate": 3.0,
+      "HeightLightScale": 0.400965,
+      "ParallaxHeight": 0.2,
+      "ParallaxScale": 1.0,
+      "EyeScale": 0.8,
+      "AniScaleCenterX": 0.7,
+      "AniScaleCenterY": 0.8,
+      "SecondLight_PositionX": 0.25,
+      "SecondLight_PositionY": 0.3,
+      "SecondLight_WidthX": 1.8,
+      "SecondLight_WidthY": 0.9,
+      "RotateAngle": 0.069874,
+      "ShapeScaleX": 9.0,
+      "ShapeScaleY": 12.0,
+      "RotationAnlgle01": 0.0,
+      "ShapePosition01X": 0.68,
+      "ShapePosition01Y": 0.721428,
+      "LightDisable": 0.7,
+      "LightEmissiveInt": 1.5,
+      "ShadowWidth": 0.01,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHeightLightShape": true,
+      "UseEyeSDF": true,
+      "UseAlphaBlendMode": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
