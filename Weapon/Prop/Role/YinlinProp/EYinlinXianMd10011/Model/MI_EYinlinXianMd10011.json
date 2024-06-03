@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorTint": {
+        "R": 0.239014,
+        "G": 0.13141,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "8665FF"
+      },
+      "EmissionColor": {
+        "R": 3.0,
+        "G": 3.0,
+        "B": 3.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "EmissionIntensity": 1.0,
+      "BreatheStrength": 2.0,
+      "BreathePropotion": 0.5,
+      "EmissionBreathThreshold": 0.9,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.6,
+      "BaseSphereLightInt": 0.3,
+      "ShdaowSphereLightInt": 0.7,
+      "UVGradientSkinInt": 0.95,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTexA": false,
+      "UseAlphaBlendMode": false,
+      "UseBreathLight": true,
+      "UseSphereGradient": false,
+      "UseUVGradient": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

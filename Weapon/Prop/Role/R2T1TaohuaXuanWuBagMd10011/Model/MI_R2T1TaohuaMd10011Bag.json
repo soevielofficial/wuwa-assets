@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/R2T1TaohuaXuanWuBagMd10011/Model/T_R2T1TaohuaMd10011Bag_D.T_R2T1TaohuaMd10011Bag_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/R2T1TaohuaXuanWuBagMd10011/Model/T_R2T1TaohuaMd10011Bag_D.T_R2T1TaohuaMd10011Bag_D",
+    "T_R2T1TaohuaMd10011Bag_D": "Client/Content/Aki/Character/Weapon/Prop/Role/R2T1TaohuaXuanWuBagMd10011/Model/T_R2T1TaohuaMd10011Bag_D.T_R2T1TaohuaMd10011Bag_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

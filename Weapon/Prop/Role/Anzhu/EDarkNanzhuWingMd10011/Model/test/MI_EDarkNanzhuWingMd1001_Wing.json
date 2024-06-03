@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/EDarkNanzhuWingMd10011/Model/test/T_EDarkNanzhuWingMd10011_D.T_EDarkNanzhuWingMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/EDarkNanzhuWingMd10011/Model/test/T_EDarkNanzhuWingMd10011_D.T_EDarkNanzhuWingMd10011_D",
+    "T_EDarkNanzhuWingMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/EDarkNanzhuWingMd10011/Model/test/T_EDarkNanzhuWingMd10011_D.T_EDarkNanzhuWingMd10011_D",
+    "R_Noise_A_Mask": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_80003.T_Mask_80003",
+    "T_Mask_80003": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_80003.T_Mask_80003",
+    "Second_RGB": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_80003.T_Mask_80003"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Second_ColorTint": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "SecondTex_UVSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "0000FF"
+      }
+    },
+    "Scalars": {
+      "Second_HeightRadio": 0.0,
+      "ToonRimWidth": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseEffectMaterial": true,
+      "UseMainA_EffectMask": false,
+      "UseSecond": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

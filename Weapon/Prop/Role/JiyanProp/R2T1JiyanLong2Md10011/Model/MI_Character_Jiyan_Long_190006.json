@@ -1,0 +1,148 @@
+{
+  "Textures": {
+    "Base": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanLong2Md10011/Model/T_R2T1JiyanLongMd10011_Head_D.T_R2T1JiyanLongMd10011_Head_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanLong2Md10011/Model/T_R2T1JiyanLongMd10011_Head_D.T_R2T1JiyanLongMd10011_Head_D",
+    "T_R2T1JiyanLongMd10011_Head_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanLong2Md10011/Model/T_R2T1JiyanLongMd10011_Head_D.T_R2T1JiyanLongMd10011_Head_D",
+    "Second": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanLong2Md10011/Model/T_R2T1JiyanLongMd10011_Head_1.T_R2T1JiyanLongMd10011_Head_1",
+    "T_R2T1JiyanLongMd10011_Head_1": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanLong2Md10011/Model/T_R2T1JiyanLongMd10011_Head_1.T_R2T1JiyanLongMd10011_Head_1",
+    "Noise": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_10005.T_Tile_10005",
+    "T_Tile_10005": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_10005.T_Tile_10005",
+    "Dissolve": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30197.T_Tile_30197",
+    "T_Tile_30197": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30197.T_Tile_30197"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Base_Refine": {
+        "R": 5.0,
+        "G": 10.0,
+        "B": 1.0,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "Base_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Second_Contorl": {
+        "R": 0.0,
+        "G": 0.413341,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "00ACBC"
+      },
+      "Noise_UVSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "Noise_UV": {
+        "R": 5.0,
+        "G": 5.0,
+        "B": -0.1,
+        "A": 0.1,
+        "Hex": "19FFFF00"
+      },
+      "Dissolve_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Dissolve_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19FFFF00"
+      },
+      "Dissolve_EdgeColor": {
+        "R": 0.297383,
+        "G": 1.007585,
+        "B": 1.5,
+        "A": 0.0,
+        "Hex": "94FFFF"
+      },
+      "Rim_Color": {
+        "R": 2.0625,
+        "G": 3.0,
+        "B": 2.986013,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Base_bScreenUV": 0.0,
+      "Base_bAddSecond": 1.0,
+      "Noise_bScreenUV": 0.0,
+      "Noise_Offset": 0.0,
+      "Noise_Strength": 0.02,
+      "Dissolve_UOffset": 0.219048,
+      "Dissolve_VOffset": 0.371429,
+      "Dissolve_Dissolve": 1.1,
+      "Dissolve_Smooth": 8.0,
+      "Dissolve_MaskLerp": 0.0,
+      "Dissolve_NoiseStrength": 1.0,
+      "Rim_BaseReflect": 0.01,
+      "Rim_Intensity": 0.16,
+      "Rim_Range": 4.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseBase": true,
+      "UseSecondTex": true,
+      "UseNoise": true,
+      "UseDissolve": true,
+      "UseRim": true,
+      "UseAllUV": true,
+      "UseNoiseInMobile": true,
+      "UseSecondInMobile": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_BlendMode": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 200
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

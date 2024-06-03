@@ -1,0 +1,102 @@
+{
+  "Textures": {
+    "Base": "Client/Content/Aki/Effect/Texture/Trail/T_Trail_10014.T_Trail_10014",
+    "T_Trail_10014": "Client/Content/Aki/Effect/Texture/Trail/T_Trail_10014.T_Trail_10014",
+    "Second": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30012.T_Tile_30012",
+    "T_Tile_30012": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30012.T_Tile_30012",
+    "Noise": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_300123.T_Tile_300123",
+    "T_Tile_300123": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_300123.T_Tile_300123",
+    "Mask": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_Wp001.T_Mask_Wp001",
+    "T_Mask_Wp001": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_Wp001.T_Mask_Wp001"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_UV": {
+        "R": 1.0,
+        "G": 0.571429,
+        "B": -0.01,
+        "A": 0.0,
+        "Hex": "FFC700"
+      },
+      "Base_Refine": {
+        "R": 3.858501,
+        "G": 0.2,
+        "B": 3.0,
+        "A": 0.7,
+        "Hex": "B3FF7CFF"
+      },
+      "Base_ColorTint": {
+        "R": 0.988073,
+        "G": 2.790694,
+        "B": 3.0,
+        "A": 0.0,
+        "Hex": "FEFFFF"
+      },
+      "Base_AlphaSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.6,
+        "Hex": "99FFFF00"
+      },
+      "Second_Contorl": {
+        "R": 0.0,
+        "G": 12.0,
+        "B": 0.3,
+        "A": 0.0,
+        "Hex": "00FF95"
+      },
+      "Noise_UV": {
+        "R": 2.0,
+        "G": 1.0,
+        "B": 0.2,
+        "A": 0.6,
+        "Hex": "99FFFF7C"
+      }
+    },
+    "Scalars": {
+      "Base_Alpha_Multiply": 15.0,
+      "Base_Rotation": 0.0,
+      "Base_NoiseStrength": 0.5,
+      "Noise_Strength": 0.8,
+      "Mask_Rotation": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseBase": true,
+      "UseSecondTex": true,
+      "UseNoise": true,
+      "UseMaskTex": true,
+      "UseNoiseInMobile": true,
+      "UseSecondInMobile": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "BLEND_Translucent",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 200
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

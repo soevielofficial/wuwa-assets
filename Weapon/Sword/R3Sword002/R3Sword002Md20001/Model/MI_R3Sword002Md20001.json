@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/T_R3Sword002Md20001_D.T_R3Sword002Md20001_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/T_R3Sword002Md20001_D.T_R3Sword002Md20001_D",
+    "T_R3Sword002Md20001_D": "Client/Content/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/T_R3Sword002Md20001_D.T_R3Sword002Md20001_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/T_R3Sword002Md20001_N.T_R3Sword002Md20001_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Sword/R3Sword002/R3Sword002Md20001/Model/T_R3Sword002Md20001_N.T_R3Sword002Md20001_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 3.0,
+        "G": 3.0,
+        "B": 3.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "BreatheStrength": 2.0,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 2.0,
+      "MatCapInt": 0.5,
+      "MetalMatCapInt": 3.0,
+      "MetalMatCapBack": 2.0,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalEmissionStrength": 2.0,
+      "MetalSpecularPower": 163.985,
+      "SpecularPower": 5.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "UseDoubleSpecular": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu003Md10011/Model/T_R1Hulu003Md10011_D.T_R1Hulu003Md10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu003Md10011/Model/T_R1Hulu003Md10011_D.T_R1Hulu003Md10011_D",
+    "T_R1Hulu003Md10011_D": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu003Md10011/Model/T_R1Hulu003Md10011_D.T_R1Hulu003Md10011_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu003Md10011/Model/T_R1Hulu003Md10011_N.T_R1Hulu003Md10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu003Md10011/Model/T_R1Hulu003Md10011_N.T_R1Hulu003Md10011_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 0.36,
+        "G": 1.365333,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "A2FFFF"
+      }
+    },
+    "Scalars": {
+      "UseSkinMask_DYN": 1.0,
+      "SpecStrength": 0.1,
+      "BreatheStrength": 0.6,
+      "BreatheFrequency": 1.0,
+      "BreathePropotion": 2.0,
+      "MatCapInt": 0.4,
+      "MetallicBaseSpecular": 0.059762,
+      "EdgeEnvBRDFIntensity": 1.0,
+      "BaseSpecular": 0.5,
+      "MetalEmissionStrength": 1.0,
+      "MetalSpecularPower": 50.0,
+      "SpecularPower": 1.090853,
+      "PBRRateIntensity": 1.0,
+      "RoughnessIntensity(Debug))": 1.0,
+      "MetallicIntensity(Debug)": 1.0,
+      "ToonMaxSpecular": 158.93832,
+      "ToonRimWidth": 0.02,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseSkinMask": true,
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

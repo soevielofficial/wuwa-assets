@@ -1,0 +1,146 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/ComonProp/P1Xlb01/Model/T_P1Xlb01_D.T_P1Xlb01_D",
+    "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_P1Xlb01_D": "Client/Content/Aki/Character/Weapon/Prop/ComonProp/P1Xlb01/Model/T_P1Xlb01_D.T_P1Xlb01_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/ComonProp/P1Xlb01/Model/T_P1Xlb01_N.T_P1Xlb01_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/ComonProp/P1Xlb01/Model/T_P1Xlb01_N.T_P1Xlb01_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "NoiseTex": "Client/Content/Aki/Character/Monster/Boss/MB1SuiguangMd00501/Model/T_MB1SuiguangMd00501Hair_Noise_D.T_MB1SuiguangMd00501Hair_Noise_D",
+    "T_MB1SuiguangMd00501Hair_Noise_D": "Client/Content/Aki/Character/Monster/Boss/MB1SuiguangMd00501/Model/T_MB1SuiguangMd00501Hair_Noise_D.T_MB1SuiguangMd00501Hair_Noise_D",
+    "TilingMap": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D",
+    "T_DefaultColorWhite_Linear_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D",
+    "R_Noise_A_Mask": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "Second_RGB": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_DefaultColorWhite_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "MainTexColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ThirdTex_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ThirdTex_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "ThirdLayer_MaskRefine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "EmissionColor": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ToonSpecularColor": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "PBRIndirectColor": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "WorldOffsetOffsetIntensity": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "FresnelRim_RimColor": {
+        "R": 3.0,
+        "G": 3.0,
+        "B": 3.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UV": {
+        "R": 10.0,
+        "G": 10.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      }
+    },
+    "Scalars": {
+      "ThirdTex_SwitchToUV3": 0.0,
+      "EmissionBreathThreshold": 0.9,
+      "ToonSpecularShiness": 50.0,
+      "NormalStrength": 0.3,
+      "Roughness": 0.0,
+      "Metalllic": 0.8,
+      "RootScale": 1.0,
+      "NoiseStrength": 0.3,
+      "FresnelRim_RimRange": 3.809524,
+      "FresnelRim_Smooth": -0.03,
+      "Second_Height": -0.1,
+      "Second_HeightRadio": 0.25,
+      "UseLightOffset_Yaw_DYN": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseAlphaBlendMode": false,
+      "UseBreathLight": true,
+      "UseNormalTexture": true,
+      "UsePBR": true,
+      "UseTilingVertexA": true,
+      "UseNoise": true,
+      "UseRim": true,
+      "UseSecond": true,
+      "UseSDFEffect": false,
+      "UseLightOffset_Yaw": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

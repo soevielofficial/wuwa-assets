@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangLionHeadMd10011/Model/T_ELingyangLionHeadMd10011_D.T_ELingyangLionHeadMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangLionHeadMd10011/Model/T_ELingyangLionHeadMd10011_D.T_ELingyangLionHeadMd10011_D",
+    "T_ELingyangLionHeadMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangLionHeadMd10011/Model/T_ELingyangLionHeadMd10011_D.T_ELingyangLionHeadMd10011_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.6,
+        "G": 0.6,
+        "B": 0.6,
+        "A": 0.0,
+        "Hex": "CCCCCC"
+      }
+    },
+    "Scalars": {
+      "ShadowProcess": 0.55,
+      "SolidShadowStrength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

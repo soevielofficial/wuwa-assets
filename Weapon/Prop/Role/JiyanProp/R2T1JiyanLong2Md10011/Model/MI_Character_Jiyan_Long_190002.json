@@ -1,0 +1,137 @@
+{
+  "Textures": {
+    "Base": "Client/Content/Aki/Effect/Texture/Wenli/T_Wenli_190002.T_Wenli_190002",
+    "T_Wenli_190002": "Client/Content/Aki/Effect/Texture/Wenli/T_Wenli_190002.T_Wenli_190002",
+    "Second": "Client/Content/Aki/Effect/Texture/Wenli/T_Wenli_190002.T_Wenli_190002",
+    "Noise": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_20002.T_Tile_20002",
+    "T_Tile_20002": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_20002.T_Tile_20002",
+    "Mask": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_005.T_Mask_005",
+    "T_Mask_005": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_005.T_Mask_005",
+    "Dissolve": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30021.T_Tile_30021",
+    "T_Tile_30021": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30021.T_Tile_30021"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": -0.05,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Base_Refine": {
+        "R": 1.1,
+        "G": 5.0,
+        "B": 1.0,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "Base_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Base_EmissiveSwitch": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Base_AlphaSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": -0.05,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Second_Contorl": {
+        "R": 0.0,
+        "G": 1.2,
+        "B": 0.1,
+        "A": 0.0,
+        "Hex": "00FF59"
+      },
+      "Noise_UV": {
+        "R": 3.0,
+        "G": 5.0,
+        "B": 0.05,
+        "A": 0.1,
+        "Hex": "19FFFF3F"
+      },
+      "Mask_UV": {
+        "R": 1.0,
+        "G": 0.95,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFA00"
+      },
+      "Dissolve_UV": {
+        "R": 3.0,
+        "G": 10.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Dissolve_EdgeColor": {
+        "R": 2.0,
+        "G": 1.83127,
+        "B": 1.729167,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Base_Alpha_Multiply": 2.0,
+      "Base_bAddSecond": 1.0,
+      "Base_NoiseStrength": 0.2,
+      "Mask_Alpha_Multiply": 2.5,
+      "Mask_Rotation": 0.25,
+      "Mask_bClamp": 1.0,
+      "Dissolve_Dissolve": 1.1,
+      "Dissolve_Smooth": 20.0,
+      "Rim_BaseReflect": 0.0,
+      "Rim_Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseBase": true,
+      "UseSecondTex": true,
+      "UseNoise": true,
+      "UseMaskTex": true,
+      "UseDissolve": true,
+      "UseNoiseInMobile": true,
+      "UseSecondInMobile": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "BLEND_Translucent",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 53295
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

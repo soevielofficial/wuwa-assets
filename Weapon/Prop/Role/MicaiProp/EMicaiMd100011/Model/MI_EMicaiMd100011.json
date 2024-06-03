@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/MicaiProp/EMicaiMd100011/Model/T_EMicaiMd100011_D.T_EMicaiMd100011_D",
+    "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_EMicaiMd100011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/MicaiProp/EMicaiMd100011/Model/T_EMicaiMd100011_D.T_EMicaiMd100011_D",
+    "DetailTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_DefaultColorWhite_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/MicaiProp/EMicaiMd100011/Model/T_EMicaiMd100011_N.T_EMicaiMd100011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/MicaiProp/EMicaiMd100011/Model/T_EMicaiMd100011_N.T_EMicaiMd100011_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

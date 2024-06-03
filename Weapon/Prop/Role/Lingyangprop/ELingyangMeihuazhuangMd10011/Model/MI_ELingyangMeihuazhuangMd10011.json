@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_D.T_ELingyangMeihuazhuangMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_D.T_ELingyangMeihuazhuangMd10011_D",
+    "T_ELingyangMeihuazhuangMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_D.T_ELingyangMeihuazhuangMd10011_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_N.T_ELingyangMeihuazhuangMd10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_N.T_ELingyangMeihuazhuangMd10011_N",
+    "Ramp": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_Skin.T_ELingyangMeihuazhuangMd10011_Skin",
+    "T_ELingyangMeihuazhuangMd10011_Skin": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_Skin.T_ELingyangMeihuazhuangMd10011_Skin",
+    "R_Noise_A_Mask": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_ID.T_ELingyangMeihuazhuangMd10011_ID",
+    "T_ELingyangMeihuazhuangMd10011_ID": "Client/Content/Aki/Character/Weapon/Prop/Role/Lingyangprop/ELingyangMeihuazhuangMd10011/Model/T_ELingyangMeihuazhuangMd10011_ID.T_ELingyangMeihuazhuangMd10011_ID",
+    "Second_RGB": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30010.T_Tile_30010",
+    "T_Tile_30010": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30010.T_Tile_30010"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Second_ColorTint": {
+        "R": 3.0,
+        "G": 1.550384,
+        "B": 0.566309,
+        "A": 1.0,
+        "Hex": "FFFFC7"
+      },
+      "Second_Refine": {
+        "R": 3.0,
+        "G": 5.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.1,
+        "A": 0.1,
+        "Hex": "19FFFF59"
+      }
+    },
+    "Scalars": {
+      "ShadowWidth": 0.03,
+      "RampInt": 0.7,
+      "RampPosition": 0.5,
+      "Effect_Progress": 0.0,
+      "E_Dither_DitherValue": 1.2,
+      "E_Dither_UseDither": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRampColor": true,
+      "UseEffectMaterial": true,
+      "UseSecond": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bEnableSeparateTranslucency": true,
+        "BlendMode": "BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 200,
+        "bOverride_CustomAlphaTest": true,
+        "bCustomAlphaTest": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

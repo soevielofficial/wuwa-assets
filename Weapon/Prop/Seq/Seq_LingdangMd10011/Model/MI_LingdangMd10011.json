@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Seq/Seq_LingdangMd10011/Model/T_LingdangMd10011_D.T_LingdangMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_LingdangMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Seq/Seq_LingdangMd10011/Model/T_LingdangMd10011_D.T_LingdangMd10011_D",
+    "MaskTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_DefaultColorWhite_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.411458,
+        "G": 0.411458,
+        "B": 0.411458,
+        "A": 0.0,
+        "Hex": "ACACAC"
+      },
+      "SkinColor": {
+        "R": 0.901042,
+        "G": 0.882113,
+        "B": 0.836686,
+        "A": 1.0,
+        "Hex": "F4F2EC"
+      }
+    },
+    "Scalars": {
+      "MatCapInt": 1.0,
+      "MetalEmissionStrength": 2.0,
+      "MetalSpecularPower": 1.0,
+      "SpecularPower": 10.0,
+      "Roughness": 0.9,
+      "Metalllic": 0.85,
+      "PBRRate": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UsePBR": true,
+      "UseDoubleSpecular": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

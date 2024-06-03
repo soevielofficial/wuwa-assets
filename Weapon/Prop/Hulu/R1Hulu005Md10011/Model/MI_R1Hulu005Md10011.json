@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu005Md10011/Model/T_R1Hulu005Md10011_D.T_R1Hulu005Md10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu005Md10011/Model/T_R1Hulu005Md10011_D.T_R1Hulu005Md10011_D",
+    "T_R1Hulu005Md10011_D": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu005Md10011/Model/T_R1Hulu005Md10011_D.T_R1Hulu005Md10011_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu005Md10011/Model/T_R1Hulu005Md10011_N.T_R1Hulu005Md10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu005Md10011/Model/T_R1Hulu005Md10011_N.T_R1Hulu005Md10011_N",
+    "PBRCubeMap": "Client/Content/Aki/Scene/Cubemaps/T_ZbyStudio_0028_CUBE.T_ZbyStudio_0028_CUBE",
+    "T_ZbyStudio_0028_CUBE": "Client/Content/Aki/Scene/Cubemaps/T_ZbyStudio_0028_CUBE.T_ZbyStudio_0028_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 1.0,
+        "G": 0.71875,
+        "B": 0.71875,
+        "A": 1.0,
+        "Hex": "FFDDDD"
+      }
+    },
+    "Scalars": {
+      "BreatheStrength": 5.0,
+      "BreatheFrequency": 4.0,
+      "BreathePropotion": 2.0,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalSpecularPower": 5000.0,
+      "SpecularPower": 5.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

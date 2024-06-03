@@ -1,0 +1,108 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/T_R5Sword004Md20001_D.T_R5Sword004Md20001_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/T_R5Sword004Md20001_D.T_R5Sword004Md20001_D",
+    "T_R5Sword004Md20001_D": "Client/Content/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/T_R5Sword004Md20001_D.T_R5Sword004Md20001_D",
+    "MaskTex": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/T_R5Sword004Md20001_N.T_R5Sword004Md20001_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Sword/R5Sword004/R5Sword004Md20001/Model/T_R5Sword004Md20001_N.T_R5Sword004Md20001_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "R_Noise_A_Mask": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_10005.T_Tile_10005",
+    "T_Tile_10005": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_10005.T_Tile_10005",
+    "Second_RGB": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_300185_2.T_Tile_300185_2",
+    "T_Tile_300185_2": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_300185_2.T_Tile_300185_2"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "EmissionColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "NoiseUV": {
+        "R": 5.0,
+        "G": 5.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Second_ColorTint": {
+        "R": 4.549385,
+        "G": 5.912038,
+        "B": 10.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_Refine": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FF00FF"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.05,
+        "A": 0.05,
+        "Hex": "0CFFFF3F"
+      },
+      "SecondTex_UVSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "SolidShadowStrength": 0.0,
+      "BreatheStrength": 5.0,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 1.5,
+      "EmissionBreathThreshold": 0.9,
+      "MatCapInt": 1.5,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "SpecularPower": 20.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseEffectMaterial": true,
+      "UseNoise": true,
+      "UseSecond": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

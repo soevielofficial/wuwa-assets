@@ -1,0 +1,120 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_D.T_R2T1JiyanQiangMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_30055.T_Mask_30055",
+    "T_R2T1JiyanQiangMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_D.T_R2T1JiyanQiangMd10011_D",
+    "MaskTex": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_N.T_R2T1JiyanQiangMd10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_N.T_R2T1JiyanQiangMd10011_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "T_MC_premake_D": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "R_Noise_A_Mask": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_30055.T_Mask_30055",
+    "T_Mask_30055": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_30055.T_Mask_30055",
+    "Second_RGB": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_M.T_R2T1JiyanQiangMd10011_M",
+    "T_R2T1JiyanQiangMd10011_M": "Client/Content/Aki/Character/Weapon/Prop/Role/JiyanProp/R2T1JiyanQiangMd10011/Model/T_R2T1JiyanQiangMd10011_M.T_R2T1JiyanQiangMd10011_M",
+    "E_Tex_NoiseTex": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_30055.T_Mask_30055"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorTint": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SkinSubsurfaceColor": {
+        "R": 0.151,
+        "G": 0.068831,
+        "B": 0.076353,
+        "A": 0.0,
+        "Hex": "6C4A4E"
+      },
+      "SubsurfaceColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "EmissionColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "FresnelRim_RimColor": {
+        "R": 0.828125,
+        "G": 0.828125,
+        "B": 0.828125,
+        "A": 7.089605,
+        "Hex": "EBEBEB"
+      },
+      "Second_ColorTint": {
+        "R": 0.054803,
+        "G": 0.15,
+        "B": 0.113193,
+        "A": 1.0,
+        "Hex": "426C5E"
+      },
+      "Second_Refine": {
+        "R": 7.0,
+        "G": 20.0,
+        "B": 10.000002,
+        "A": 0.001,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "SolidShadowView": 0.6,
+      "BreatheStrength": 1.0,
+      "BreatheFrequency": 0.0,
+      "NormalStrength": 1.0,
+      "MatCapInt": 1.0,
+      "Roughness": 0.1,
+      "Metalllic": 0.8,
+      "PBRRate": 0.3,
+      "PBRRateIntensity": 1.0,
+      "FresnelRim_Reverse": 0.0,
+      "FresnelRim_RimRange": 0.640476,
+      "FresnelRim_Smooth": -1.0,
+      "E_Dissolve_UseDissolve": 1.0,
+      "MetalMatCapInt": 5.0,
+      "MetalMatCapBack": 4.0,
+      "E_Tex_UseTex": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseBreathLight": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "UseEffectMaterial": true,
+      "UseSecond": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_ShadingModel": true,
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bOverride_CustomAlphaTest": true,
+        "bCustomAlphaTest": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

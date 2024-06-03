@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu001Md10021/Model/T_R1Hulu001Md10021_D.T_R1Hulu001Md10021_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu001Md10021/Model/T_R1Hulu001Md10021_D.T_R1Hulu001Md10021_D",
+    "T_R1Hulu001Md10021_D": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu001Md10021/Model/T_R1Hulu001Md10021_D.T_R1Hulu001Md10021_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu001Md10021/Model/T_R1Hulu001Md10021_N.T_R1Hulu001Md10021_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Hulu/R1Hulu001Md10021/Model/T_R1Hulu001Md10021_N.T_R1Hulu001Md10021_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "ExtraShadowColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      },
+      "EmissionColor": {
+        "R": 0.36,
+        "G": 1.365333,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "A2FFFF"
+      }
+    },
+    "Scalars": {
+      "BreatheStrength": 1.490296,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 2.0,
+      "MatCapInt": 0.3,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalEmissionStrength": 1.0,
+      "MetalSpecularPower": 200.0,
+      "SpecularPower": 0.0,
+      "MetalMatCapInt": 3.0,
+      "MetalMatCapBack": 2.0,
+      "ToonRimWidth": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/MB1ZhenwuguanzheMd601_Weapon1/Model/T_MB1ZhenwuguanzheMd00601_Weapon_D.T_MB1ZhenwuguanzheMd00601_Weapon_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/MB1ZhenwuguanzheMd601_Weapon1/Model/T_MB1ZhenwuguanzheMd00601_Weapon_D.T_MB1ZhenwuguanzheMd00601_Weapon_D",
+    "T_MB1ZhenwuguanzheMd00601_Weapon_D": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/MB1ZhenwuguanzheMd601_Weapon1/Model/T_MB1ZhenwuguanzheMd00601_Weapon_D.T_MB1ZhenwuguanzheMd00601_Weapon_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/MB1ZhenwuguanzheMd601_Weapon1/Model/T_MB1ZhenwuguanzheMd00601_Weapon_N.T_MB1ZhenwuguanzheMd00601_Weapon_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/Anzhu/MB1ZhenwuguanzheMd601_Weapon1/Model/T_MB1ZhenwuguanzheMd00601_Weapon_N.T_MB1ZhenwuguanzheMd00601_Weapon_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 12.0,
+        "G": 12.0,
+        "B": 12.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "PBRSpecularColor_Test": {
+        "R": 30.0,
+        "G": 30.0,
+        "B": 30.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SDFColor": {
+        "R": 0.979167,
+        "G": 0.719972,
+        "B": 0.474284,
+        "A": 2.0,
+        "Hex": "FDDDB7"
+      }
+    },
+    "Scalars": {
+      "PBRHardSpecWidth_Test": 1.012771,
+      "PBRHardSpeSmooth_Test": 1.003735,
+      "Roughness": 1.0,
+      "Metalllic": 0.0,
+      "PBRRate": 1.0,
+      "EdgeEnvBRDFIntensity": 1.0,
+      "PBRRateIntensity": 1.0,
+      "SDFCircleScaleX": -9.54101,
+      "SDFCircleScaleY": -6.457522,
+      "SDFCirclePositionX": 0.374023,
+      "SDFCirclePositionY": 0.286246,
+      "SDFCircleScale": 0.803595,
+      "SDFCircleWidth": 0.432857,
+      "PolarTilingMax": -0.6,
+      "SDFNormalInt": 1.536729,
+      "SDFTimeSpeed": 0.328571,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalTexture": true,
+      "UsePBR": true,
+      "UsePBRMask": true,
+      "UseXingHenEffect": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

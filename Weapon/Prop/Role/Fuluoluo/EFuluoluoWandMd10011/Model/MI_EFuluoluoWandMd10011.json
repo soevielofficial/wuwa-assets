@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/Fuluoluo/EFuluoluoWandMd10011/Model/T_EFuluoluoWandMd10011_D.T_EFuluoluoWandMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/Fuluoluo/EFuluoluoWandMd10011/Model/T_EFuluoluoWandMd10011_D.T_EFuluoluoWandMd10011_D",
+    "T_EFuluoluoWandMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/Fuluoluo/EFuluoluoWandMd10011/Model/T_EFuluoluoWandMd10011_D.T_EFuluoluoWandMd10011_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/Fuluoluo/EFuluoluoWandMd10011/Model/T_EFuluoluoWandMd10011_N.T_EFuluoluoWandMd10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/Fuluoluo/EFuluoluoWandMd10011/Model/T_EFuluoluoWandMd10011_N.T_EFuluoluoWandMd10011_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Seq/Seq_HeihuaMd10011/Model/T_HeihuaMd10011_D.T_HeihuaMd10011_D",
+    "PM_Diffuse": "Client/Content/Aki/Effect/Texture/CharacterMask/T_Wenli_MBZwgz_Mask_Wing2_140001.T_Wenli_MBZwgz_Mask_Wing2_140001",
+    "T_HeihuaMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Seq/Seq_HeihuaMd10011/Model/T_HeihuaMd10011_D.T_HeihuaMd10011_D",
+    "R_Noise_A_Mask": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "E_Tex_NoiseTex": "Client/Content/Aki/Effect/Texture/CharacterMask/T_Wenli_MBZwgz_Mask_Wing2_140001.T_Wenli_MBZwgz_Mask_Wing2_140001"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "E_Dissolve_Emission": {
+        "R": 0.953125,
+        "G": 3.0,
+        "B": 1.662464,
+        "A": 0.0,
+        "Hex": "FAFFFF"
+      }
+    },
+    "Scalars": {
+      "Effect_Progress": 1.0,
+      "E_Dissolve_UseDissolve": 1.0,
+      "E_Dissolve_Smooth": 50.0,
+      "E_Tex_UseTex": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bOverride_EnableBattleMask": true,
+        "bEnableBattleMask": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

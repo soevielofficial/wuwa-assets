@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_D.T_R4Gun002Md20001_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_D.T_R4Gun002Md20001_D",
+    "T_R4Gun002Md20001_D": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_D.T_R4Gun002Md20001_D",
+    "TypeMask": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_ID.T_R4Gun002Md20001_ID",
+    "T_R4Gun002Md20001_ID": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_ID.T_R4Gun002Md20001_ID",
+    "MaskTex": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_N.T_R4Gun002Md20001_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Gun/R4Gun002/R4Gun002Md20001/Model/T_R4Gun002Md20001_N.T_R4Gun002Md20001_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissionColor": {
+        "R": 0.8,
+        "G": 2.0,
+        "B": 1.65,
+        "A": 0.0,
+        "Hex": "E8FFFF"
+      }
+    },
+    "Scalars": {
+      "SolidShadowStrength": 0.0,
+      "BreatheStrength": 2.0,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 1.5,
+      "EmissionBreathThreshold": 0.9,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "SpecularPower": 15.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTypeMask": true,
+      "UseIDColor": true,
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
