@@ -1,0 +1,70 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011Down_D.T_R2T1LingyangMd10011Down_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011Down_D.T_R2T1LingyangMd10011Down_D",
+    "T_R2T1LingyangMd10011Down_D": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011Down_D.T_R2T1LingyangMd10011Down_D",
+    "PM_Normals": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011Down_N.T_R2T1LingyangMd10011Down_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011Down_N.T_R2T1LingyangMd10011Down_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "Ramp": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011_Skin.T_R2T1LingyangMd10011_Skin",
+    "T_R2T1LingyangMd10011_Skin": "Client/Content/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/Model/T_R2T1LingyangMd10011_Skin.T_R2T1LingyangMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.2,
+        "G": 0.2,
+        "B": 0.2,
+        "A": 0.0,
+        "Hex": "7C7C7C"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "ShadowWidth": 0.03,
+      "SolidShadowStrength": 0.0,
+      "MatCapInt": 1.0,
+      "MetallicBaseSpecular": 1.0,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalEmissionStrength": 0.5,
+      "MetalSpecularPower": 1.0,
+      "SpecularPower": 15.0,
+      "RampInt": 0.1,
+      "RampPosition": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseRampColor": true,
+      "UseSkinAllRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
