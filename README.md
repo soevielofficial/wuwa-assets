@@ -17,11 +17,8 @@
 </p>
 
 ## Current Version
-- 1.0
+- 1.1.0
 
 ## Containing
 - Character
 - Weapon
-
-## Other Resources
-- [io_scene_psk_psa](https://github.com/DarklightGames/io_scene_psk_psa)
