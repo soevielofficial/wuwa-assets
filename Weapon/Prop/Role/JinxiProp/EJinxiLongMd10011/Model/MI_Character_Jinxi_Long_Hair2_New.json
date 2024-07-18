@@ -1,0 +1,161 @@
+{
+  "Textures": {
+    "Base": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd10011_Hair2_D.T_EJinxiLongMd10011_Hair2_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd1001_Texiao2_D.T_EJinxiLongMd1001_Texiao2_D",
+    "T_EJinxiLongMd10011_Hair2_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd10011_Hair2_D.T_EJinxiLongMd10011_Hair2_D",
+    "Second": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd1001_Texiao2_D.T_EJinxiLongMd1001_Texiao2_D",
+    "T_EJinxiLongMd1001_Texiao2_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd1001_Texiao2_D.T_EJinxiLongMd1001_Texiao2_D",
+    "Noise": "Client/Content/Aki/Effect/Texture/Tile/T_Dissolve_30003.T_Dissolve_30003",
+    "T_Dissolve_30003": "Client/Content/Aki/Effect/Texture/Tile/T_Dissolve_30003.T_Dissolve_30003",
+    "Dissolve": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_010.T_Mask_010",
+    "T_Mask_010": "Client/Content/Aki/Effect/Texture/Mask/T_Mask_010.T_Mask_010",
+    "BumpNoise": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd1001_Texiao2_D.T_EJinxiLongMd1001_Texiao2_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd10011_Hair2_N.T_EJinxiLongMd10011_Hair2_N",
+    "BaseNormalTexture": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLongMd10011/Model/T_EJinxiLongMd10011_Hair2_N.T_EJinxiLongMd10011_Hair2_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Base_Refine": {
+        "R": 0.634295,
+        "G": 2.058737,
+        "B": 2.601132,
+        "A": 1.825439,
+        "Hex": "D1FFFF"
+      },
+      "Base_ColorTint": {
+        "R": 2.428855,
+        "G": 4.700844,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Base_AlphaSwitch": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Second_UV": {
+        "R": 2.3,
+        "G": 2.0,
+        "B": 0.1,
+        "A": 0.1,
+        "Hex": "19FFFF59"
+      },
+      "Second_Contorl": {
+        "R": 0.823062,
+        "G": 2.233248,
+        "B": 0.67619,
+        "A": 0.0,
+        "Hex": "EAFFD7"
+      },
+      "Noise_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Noise_UV": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 0.1,
+        "A": 0.2,
+        "Hex": "33FFFF59"
+      },
+      "Dissolve_UVSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "BumpNoiseColorMul": {
+        "R": 1.194495,
+        "G": 3.909404,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "BumpOffsetTexUV_S_O": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 0.05,
+        "A": 0.05,
+        "Hex": "0CFFFF3F"
+      },
+      "Rim_Color": {
+        "R": 0.450786,
+        "G": 1.0,
+        "B": 0.926772,
+        "A": 1.0,
+        "Hex": "B3FFF7"
+      }
+    },
+    "Scalars": {
+      "Base_Alpha_Multiply": 1.0,
+      "Base_Emissive_Add": 0.2,
+      "Base_bUseChannelAsEmissive": 0.5,
+      "Base_bAddSecond": 0.01,
+      "Base_NoiseStrength": 1.0,
+      "Noise_Offset": 0.0,
+      "Noise_Strength": 0.02,
+      "Dissolve_bScreenUV": 0.0,
+      "Dissolve_UOffset": 0.0,
+      "Dissolve_Dissolve": 1.0,
+      "Dissolve_Smooth": 50.0,
+      "DIssolve_Rotation": 0.5,
+      "BaseBumpOffset": 1.0,
+      "BaseTextureScaleNear": 1.0,
+      "Rim_BaseReflect": 0.0,
+      "Rim_Intensity": 1.0,
+      "Rim_Range": 8.0,
+      "Normal UV0 Or UV1": 0.0,
+      "NormalTili": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseBase": true,
+      "UseSecondTex": true,
+      "UseNoise": true,
+      "UseRim": true,
+      "UseAllUV": true,
+      "UseSecondInMobile": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_DitheredLODTransition": true,
+        "DitheredLODTransition": true,
+        "BlendMode": "BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 200,
+        "bHasTranslucentPreDepth": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

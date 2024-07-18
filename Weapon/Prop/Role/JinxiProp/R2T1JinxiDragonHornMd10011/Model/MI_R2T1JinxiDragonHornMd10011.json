@@ -2,17 +2,47 @@
   "Textures": {
     "MainTex": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_D.T_R2T1JinxiDragonHornMd10011_D",
     "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_D.T_R2T1JinxiDragonHornMd10011_D",
-    "T_R2T1JinxiDragonHornMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_D.T_R2T1JinxiDragonHornMd10011_D"
+    "T_R2T1JinxiDragonHornMd10011_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_D.T_R2T1JinxiDragonHornMd10011_D",
+    "PM_Normals": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_N.T_R2T1JinxiDragonHornMd10011_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_N.T_R2T1JinxiDragonHornMd10011_N",
+    "Ramp": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_Skin.T_R2T1JinxiDragonHornMd10011_Skin",
+    "T_R2T1JinxiDragonHornMd10011_Skin": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/R2T1JinxiDragonHornMd10011/Model/T_R2T1JinxiDragonHornMd10011_Skin.T_R2T1JinxiDragonHornMd10011_Skin",
+    "R_Noise_A_Mask": "Client/Content/Aki/Effect/Texture/Wenli/T_Jinxi_40001_DragonHorn.T_Jinxi_40001_DragonHorn",
+    "T_Jinxi_40001_DragonHorn": "Client/Content/Aki/Effect/Texture/Wenli/T_Jinxi_40001_DragonHorn.T_Jinxi_40001_DragonHorn"
   },
   "Parameters": {
     "BlendMode": 0,
     "ShadingModel": 0,
-    "Colors": {},
+    "Colors": {
+      "Second_ColorTint": {
+        "R": 1.25,
+        "G": 1.167136,
+        "B": 0.918544,
+        "A": 1.0,
+        "Hex": "FFFFF6"
+      },
+      "Second_Refine": {
+        "R": 1.380145,
+        "G": 3.165258,
+        "B": -0.247619,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      }
+    },
     "Scalars": {
+      "RampInt": 0.4,
+      "RampPosition": 0.3,
+      "ToonRimWidth": 0.026,
       "RefractionDepthBias": 0.0
     },
     "Switches": {
-      "UseMainTexA": true
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseRampColor": true,
+      "UseEffectMaterial": true,
+      "UseSecond": true
     },
     "Properties": {
       "bHasStaticPermutationResource": true,

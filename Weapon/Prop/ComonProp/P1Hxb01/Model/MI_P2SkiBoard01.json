@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Prop/RoleProp/P2SkiBoard01/Model/T_P2SkiBoard01_D.T_P2SkiBoard01_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Prop/RoleProp/P2SkiBoard01/Model/T_P2SkiBoard01_D.T_P2SkiBoard01_D",
+    "T_P2SkiBoard01_D": "Client/Content/Aki/Character/Prop/RoleProp/P2SkiBoard01/Model/T_P2SkiBoard01_D.T_P2SkiBoard01_D",
+    "PM_Normals": "Client/Content/Aki/Character/Prop/RoleProp/P2SkiBoard01/Model/T_P2SkiBoard01_N.T_P2SkiBoard01_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Prop/RoleProp/P2SkiBoard01/Model/T_P2SkiBoard01_N.T_P2SkiBoard01_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.127604,
+        "G": 0.166667,
+        "B": 0.151855,
+        "A": 0.0,
+        "Hex": "64716D"
+      },
+      "EmissionColor": {
+        "R": 4.0,
+        "G": 3.9,
+        "B": 3.5,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "BreatheStrength": 5.0,
+      "BreathePropotion": 0.2,
+      "SpecularPower": 4.5,
+      "Roughness": 0.8,
+      "Metalllic": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UsePBR": true,
+      "使用PBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

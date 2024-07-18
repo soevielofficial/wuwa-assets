@@ -40,6 +40,9 @@
     },
     "Scalars": {
       "ShadowWidth": 0.03,
+      "NormalStrength": 1.0,
+      "RoughnessIntensity(Debug))": 1.0,
+      "MetallicIntensity(Debug)": 1.0,
       "RampInt": 0.7,
       "RampPosition": 0.5,
       "Effect_Progress": 0.0,
@@ -49,6 +52,7 @@
     },
     "Switches": {
       "UseRampColor": true,
+      "UseEffect": true,
       "UseEffectMaterial": true,
       "UseSecond": true
     },

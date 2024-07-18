@@ -1,0 +1,68 @@
+{
+  "Textures": {
+    "Base": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLonglinMd10011/Model/T_EJinxiLonglinMd10011Face_D.T_EJinxiLonglinMd10011Face_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLonglinMd10011/Model/T_EJinxiLonglinMd10011Face_D.T_EJinxiLonglinMd10011Face_D",
+    "T_EJinxiLonglinMd10011Face_D": "Client/Content/Aki/Character/Weapon/Prop/Role/JinxiProp/EJinxiLonglinMd10011/Model/T_EJinxiLonglinMd10011Face_D.T_EJinxiLonglinMd10011Face_D"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Base_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Base_Refine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "Base_AlphaSwitch": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Base_Alpha_Multiply": 0.5,
+      "Base_Emissive_Add": 0.5,
+      "Base_bUseChannelAsEmissive": 0.0,
+      "Base_bAddSecond": 0.0,
+      "Base_Rotation": 0.0,
+      "Base_NoiseStrength": 1.0,
+      "E_Dither_DitherValue": 1.2,
+      "E_Dither_UseDither": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Translucent",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 200,
+        "bOverride_CustomAlphaTest": true,
+        "bCustomAlphaTest": true,
+        "bOverride_EnableBattle": true,
+        "bEnableBattle": true,
+        "bOverride_EnableBattleMask": true,
+        "bEnableBattleMask": true,
+        "bHasTranslucentPreDepth": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

@@ -10,6 +10,7 @@
     "Switches": {},
     "Properties": {
       "BasePropertyOverrides": {
+        "TwoSided": true,
         "BlendMode": "BLEND_Translucent",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 200

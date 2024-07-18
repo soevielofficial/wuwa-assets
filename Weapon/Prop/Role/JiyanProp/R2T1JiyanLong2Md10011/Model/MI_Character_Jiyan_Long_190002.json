@@ -124,7 +124,7 @@
         "ShadingModel": "MSM_Unlit",
         "OpacityMaskClipValue": 0.3333,
         "bOverride_RenderQueue": true,
-        "RenderQueue": 53295
+        "RenderQueue": 200
       }
     },
     "HasTopDiffuse": false,

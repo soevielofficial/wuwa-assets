@@ -5,7 +5,7 @@
     "T_EAnkeMd10011Eyes_D": "Client/Content/Aki/Character/Weapon/Prop/Role/AnkeYang/EAnkeMd10011/Model/T_EAnkeMd10011Eyes_D.T_EAnkeMd10011Eyes_D"
   },
   "Parameters": {
-    "BlendMode": 2,
+    "BlendMode": 1,
     "ShadingModel": 0,
     "Colors": {},
     "Scalars": {
@@ -17,7 +17,7 @@
       "BasePropertyOverrides": {
         "bOverride_BlendMode": true,
         "TwoSided": true,
-        "BlendMode": "BLEND_Translucent",
+        "BlendMode": "BLEND_Masked",
         "ShadingModel": "MSM_ToonCommon",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 180
@@ -27,7 +27,7 @@
     "HasTopNormals": false,
     "HasTopSpecularMasks": false,
     "HasTopEmissive": false,
-    "IsTranslucent": true,
+    "IsTranslucent": false,
     "IsNull": false
   }
 }
